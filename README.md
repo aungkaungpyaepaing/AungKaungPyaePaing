@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungkaungpyaepaing&label=Profile%20views&color=0e75b6&style=flat" alt="aungkaungpyaepaing" /> </p>
 
-- 🌱 I’m currently learning **Machine learning and AI focus on Images and Computer Vision**
+- 🌱 I’m currently learning **Machine learning and AI**
 
 - 📫 How to reach me **aungkpp.dev@gmail.com**
 
