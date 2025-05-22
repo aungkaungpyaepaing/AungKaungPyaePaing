@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_107791-611.jpg?w=2000&t=st=1696749581~exp=1696750181~hmac=98eab39e6e1396cf0b7dbb9994bf6d2c255d0e1e08f21ed16bff344ecc3c3508)](https://github.com/aungkaungpyaepaing/)
+
 <h1 align="center">Hi 👋, I'm Aung Kaung Pyae Paing</h1>
 <h3 align="center">Computer Science Graduate Student</h3>
 
