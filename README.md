@@ -32,7 +32,7 @@ I’m open to collaboration, mentorship, and exciting AI projects. Let’s conne
 
 - [LinkedIn](https://www.linkedin.com/in/aung-kaung-pyae-paing-889b45221/?originalSubdomain=mm)  
 - [GitHub](https://github.com/aungkaungpyaepaing)  
-- [Medium](https://medium.com/@aungkaungpyaepaing) (for blog posts and tutorials)
+- [Medium]([https://medium.com/@aungkaungpyaepaing](https://medium.com/@kaungpyae.kp27)) 
 
 ---
 
