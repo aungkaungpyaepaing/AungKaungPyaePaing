@@ -1,5 +1,7 @@
 # Aung Kaung Pyae Paing 👋
 
+<img src="https://github.com/user-attachments/assets/0d0fc5d0-f46b-4c08-b2ae-4f3df2821cf8" alt="Aung's Avatar" width="100" height="100"/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/aung-kaung-pyae-paing-889b45221/?originalSubdomain=mm)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/aungkaungpyaepaing)
 
