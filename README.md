@@ -18,11 +18,13 @@ Hello! I’m **Aung Kaung Pyae Paing**, a passionate **Machine Learning Engineer
 
 ## Skills & Technologies
 
-- **Programming:** Python, TensorFlow, PyTorch, OpenCV, Scikit-learn  
-- **Machine Learning:** CNNs, Transfer Learning, Image Classification, NLP  
-- **Tools & Frameworks:** Jupyter, Git, VS Code, PyCharm  
-- **Cloud & APIs:** OpenAI API, LangChain, AWS (basic)  
-- **Data Science:** Data Preprocessing, Visualization, Statistical Analysis
+- **Programming:** Python, SQL
+- **Machine Learning & AI:** NLP, Transformers, LLMs, RAG (Retrieval-Augmented Generation), CNNs, Transfer Learning, Image Classification  
+- **Frameworks & Libraries:** LangChain, Hugging Face Transformers, TensorFlow, PyTorch, Scikit-learn, OpenCV  
+- **Tools & Platforms:** Streamlit (basic), Jupyter, Git, Docker, VS Code, PyCharm  
+- **APIs & Cloud:** OpenAI API, AWS (basic)  
+- **Other:** Data Preprocessing, Visualization, Statistical Analysis
+
 
 ---
 
