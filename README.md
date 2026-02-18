@@ -14,7 +14,7 @@ Hello! I’m **Aung Kaung Pyae Paing**, a passionate **Machine Learning Engineer
 - 🔭 Currently exploring advanced computer vision and NLP projects.
 - 🌱 Continuously learning new AI frameworks and improving my software engineering skills.
 - 💬 Ask me about Python, TensorFlow, PyTorch, and machine learning best practices.
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/aung-kaung-pyae-paing-889b45221/?originalSubdomain=mm).
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/aung-kaung-pyae-paing-aung-889b45221/).
 
 ---
 
