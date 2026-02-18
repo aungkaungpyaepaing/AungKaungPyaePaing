@@ -34,7 +34,7 @@ Hello! I’m **Aung Kaung Pyae Paing**, a passionate **Machine Learning Engineer
 
 I’m open to collaboration, mentorship, and exciting AI projects. Let’s connect!
 
-- [LinkedIn](https://www.linkedin.com/in/aung-kaung-pyae-paing-889b45221/?originalSubdomain=mm)  
+- [LinkedIn](https://www.linkedin.com/in/aung-kaung-pyae-paing-aung-889b45221/)  
 - [GitHub](https://github.com/aungkaungpyaepaing)  
 - [Medium](https://medium.com/@kaungpyae.kp27)
 
