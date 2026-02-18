@@ -13,8 +13,7 @@
 Hi, I’m **Aung Kaung Pyae Paing** — an **AI Engineer & Researcher** specializing in **Medical AI, Large Language Models (LLMs), and production-ready machine learning systems**.
 
 🎓 BSc (First Class Honours) in Computing  
-🎓 MSc in Computer Science (AI Track) – GPA 3.72
-📄 Author of Medical-AI research publications (including ICPEI 2025)  
+🎓 MSc in Computer Science (AI Track) – GPA 3.72   
 📍 Based in Bangkok  
 
 I design and deploy AI systems that move beyond experimental notebooks — transforming research ideas into scalable, real-world applications. My work spans medical image classification, LLM-powered systems, and end-to-end AI deployment.
@@ -32,7 +31,7 @@ I design and deploy AI systems that move beyond experimental notebooks — trans
 
 **Long-term vision:**
 - Contribute to impactful AI research
-- Pursue a PhD abroad (Canada / Australia / Europe)
+- Pursue a PhD abroad   
 - Build meaningful AI products with real-world impact
 
 ---
